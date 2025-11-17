@@ -14,10 +14,6 @@ updates:
     labels:
       - "dependencies"
       - "to be triaged"
-    ignore:
-      # Example: pin or ignore certain libs if needed
-      # - dependency-name: "torch"
-      #   versions: ["*"]
 
   # (Optional) Keep GitHub Actions up to date too
   - package-ecosystem: "github-actions"
