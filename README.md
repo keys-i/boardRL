@@ -238,12 +238,11 @@ Stuff that would be nice to add when there is time:
 
 ## Contributing
 
-This is mostly a learning / side project, but if you want to play with it:
+This is mostly a learning / side project, but contributions are welcome.
 
-1. Fork the repo.
-2. Create a branch: `git checkout -b feature/my-change`.
-3. Commit and push your changes.
-4. Open a pull request with a short explanation.
+For details on how to set up the project, coding style, and how to submit changes, see  
+[CONTRIBUTING.md](CONTRIBUTING.md).
+
 
 ## License
 
