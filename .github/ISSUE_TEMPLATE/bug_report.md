@@ -2,9 +2,10 @@
 name: Bug report
 about: Report a bug in boardRL (training, rules parsing, agents, etc.)
 title: ''
-labels: bug
+labels: ['bug', 'to be triaged']
 assignees: ''
 ---
+
 
 ## Describe the bug
 
